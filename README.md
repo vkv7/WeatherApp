@@ -1,3 +1,3 @@
 # WeatherApp
-Type npm install in the command line to get all the node modules and then type npm start to run the program and you should be able to see the functionality on localhost:8080
+This app shows temperature and climate information for the specific cities requested by the user. To use the application, clone it, run the command 'npm install', then run the command 'npm start'. After that, the application should be on localhost:8080
 ![alt tag](http://imgur.com/a/4tPAb)
